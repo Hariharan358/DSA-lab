@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-// Structure to represent an adjacency list node
+// Structure to represent an adjacency list node hj
 typedef struct AdjListNode {
     int dest;
     struct AdjListNode* next;
