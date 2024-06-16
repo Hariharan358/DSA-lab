@@ -5,7 +5,7 @@
 // Structure to represent a destination
 struct Destination {
     char name[50];
-    char date[20];
+    char date[20]; 
 };
 
 typedef struct Destination Destination;
