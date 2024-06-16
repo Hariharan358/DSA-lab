@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Define a union named 'Data' that can hold an integer, float, and character
+// Define a union named 'Data' that can hold an integer, float, and chara
 union Data {
     int integer;
     float floating;
