@@ -1,6 +1,6 @@
 #include <stdio.h>
 // Function to perform binary search
-void binarySearch(int arr[], int size, int key) {
+void binarySearch(int arr[], int size, int key) { 
     int left = 0;
     int right = size - 1;
     while (left <= right) {
