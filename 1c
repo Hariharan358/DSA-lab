@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+ 
 int main() {
     // Variable to store the temperature in centigrade
     float temperature;
