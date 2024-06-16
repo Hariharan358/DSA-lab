@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 // Define the structure for a doubly linked list node
-typedef struct Node {
+typedef struct Node {    
     int data;
     struct Node* prev;
     struct Node* next;
