@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Define a structure to represent a student
+// Define a structure to represent a student 
 struct Student {
     char name[100];
     int rollNumber;
